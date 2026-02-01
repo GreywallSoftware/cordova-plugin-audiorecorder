@@ -5,7 +5,7 @@
 //  Created by jppg on 15/01/16.
 //
 //
-
+@import UIKit;
 #import <AVFoundation/AVFoundation.h>
 
 typedef NS_ENUM(NSUInteger, OSCancelReason) {
