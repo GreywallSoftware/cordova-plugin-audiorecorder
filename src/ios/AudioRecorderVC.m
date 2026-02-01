@@ -7,7 +7,7 @@
 //
 
 #import "AudioRecorderVC.h"
-
+@import UIKit;
 typedef NS_ENUM(NSUInteger, OSRecorderState) {
     OS_STATE_NOT_INIT = 0,
     OS_STATE_RECORD = 1,
